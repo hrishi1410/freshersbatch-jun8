@@ -4,6 +4,7 @@
 
 <h1 id="myH"></h1>
 <p id="myP"></p>
+<p id="my"></p>
 
 <script>
 // Change heading:
